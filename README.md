@@ -1,1 +1,1 @@
-Welcome to line comparison computation program using Java
+Welcome to the line comparison computation program using Java
